@@ -2,7 +2,7 @@
 Welcome to the Student Management System project!
 Through this project, you can do the following: 
 1- Get all the Students with their information from the Database. 
-2- Get a certain student by his Id. 
+2- Get a certain student by his ID. 
 3- Update a student's info. 
 4- Add a new Student. 
 5- Delete Student
